@@ -1,3 +1,6 @@
 2019/12/26
 15:46
 2019/12/26  15:47
+DJ13:供应商退料单;DJ10:生产领料单;DJ11:销售发货单;DJ14:其它出库单;PM:工单;DJ03:	生产退料单;DJ04:销售退货单
+
+/N2/Webroot/plf/page/sysmain/dept/addDept.jsp
